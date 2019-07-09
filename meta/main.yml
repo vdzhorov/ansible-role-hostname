@@ -1,0 +1,14 @@
+---
+
+dependencies: []
+
+galaxy_info:
+  author: vdzhorov
+  description: Basic Virtualmin installation with Ansible
+  company: "Delta.BG"
+  license: "license (MIT)"
+  min_ansible_version: 2.5
+  platforms: all
+  galaxy_tags:
+    - linux
+    - hostname
